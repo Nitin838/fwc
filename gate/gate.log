@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.1)  7 FEB 2024 15:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.1)  8 FEB 2024 09:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/geetn/Desktop/FWC/gate/gate/gate.tex
-(c:/Users/geetn/Desktop/FWC/gate/gate/gate.tex
+**c:/Users/geetn/Desktop/Github/fwc/gate/gate.tex
+(c:/Users/geetn/Desktop/Github/fwc/gate/gate.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
 (C:\Users\geetn\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -938,8 +938,6 @@ File: pgflibrarycurvilinear.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \c@proposition=\count377
 \c@lemma=\count378
 \c@example=\count379
-\c@matchleft=\count380
-\c@matchright=\count381
 
 
 LaTeX Warning: Unused global option(s):
@@ -948,36 +946,36 @@ LaTeX Warning: Unused global option(s):
 (gate.aux)
 \openout1 = `gate.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
  (C:\Users\geetn\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count382
+\scratchcounter=\count380
 \scratchdimen=\dimen372
 \scratchbox=\box94
-\nofMPsegments=\count383
-\nofMParguments=\count384
+\nofMPsegments=\count381
+\nofMParguments=\count382
 \everyMPshowfont=\toks59
-\MPscratchCnt=\count385
+\MPscratchCnt=\count383
 \MPscratchDim=\dimen373
-\MPnumerator=\count386
-\makeMPintoPDFobject=\count387
+\MPnumerator=\count384
+\makeMPintoPDFobject=\count385
 \everyMPtoPDFconversion=\toks60
 ) (C:\Users\geetn\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -985,36 +983,36 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\geetn\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count388
-LaTeX Info: Redefining \celsius on input line 131.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 131.
+\c@lstlisting=\count386
+LaTeX Info: Redefining \celsius on input line 117.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 117.
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 131.
-Package gensymb Info: Using \Omega for \ohm on input line 131.
+LaTeX Info: Redefining \ohm on input line 117.
+Package gensymb Info: Using \Omega for \ohm on input line 117.
 
 Package gensymb Warning: Not defining \micro.
 
-Package hyperref Info: Link coloring OFF on input line 131.
+Package hyperref Info: Link coloring OFF on input line 117.
 (gate.out) (gate.out)
 \@outlinefile=\write4
 \openout4 = `gate.out'.
 
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 135.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 121.
  (C:\Users\geetn\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 135.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 121.
  (C:\Users\geetn\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 135.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 121.
  (C:\Users\geetn\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 135.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 121.
  (C:\Users\geetn\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 ) (figs/logic.tex) [1
@@ -1044,15 +1042,15 @@ Package rerunfilecheck Info: File `gate.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 47979 strings out of 474587
- 1127587 string characters out of 5745702
+ 47965 strings out of 474587
+ 1127436 string characters out of 5745702
  1941558 words of memory out of 5000000
- 69378 multiletter control sequences out of 15000+600000
+ 69364 multiletter control sequences out of 15000+600000
  569035 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,10n,103p,1211b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,10n,103p,1213b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/geetn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/geetn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/geetn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/geetn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb>
-Output written on gate.pdf (1 page, 49929 bytes).
+Output written on gate.pdf (1 page, 49931 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)

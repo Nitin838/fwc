@@ -111,20 +111,6 @@
 %\@addtoreset{figure}{problem}
 %\makeatother
 
-%\let\StandardTheFigure\thefigure
-\let\vec\mathbf
-\def\inputGnumericTable{}                                 %%
-%New macro definitions
-\newcounter{matchleft}\newcounter{matchright}
-
-\newenvironment{matchtabular}{%
-  \setcounter{matchleft}{0}%
-  \setcounter{matchright}{0}%
-  \tabularx{\textwidth}{%
-    >{\leavevmode\hbox to 1.5em{\stepcounter{matchleft}\arabic{matchleft}.}}X%
-    >{\leavevmode\hbox to 1.5em{\stepcounter{matchright}\alph{matchright})}}X%
-    }%
-}{\endtabularx}
 
 \title{Assignment-2}
 \date{\today}
@@ -136,7 +122,6 @@
     \begin{figure}[H]
         \centering
         \input{figs/logic.tex}
-        \label{fig}
        \end{figure}
        \begin{enumerate}
    \item $00$ 
@@ -146,6 +131,5 @@
    
    \end{enumerate}
 \end{enumerate}
-\end{document}
 \end{document}
 
