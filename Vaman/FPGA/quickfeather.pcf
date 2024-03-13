@@ -1,0 +1,9 @@
+set_io LCD_E    60
+set_io LCD_RS   59
+set_io DATA(7)  57
+set_io DATA(6)  56
+set_io DATA(5)  55
+set_io DATA(4)  54
+set_io redled   34
+set_io greenled 39
+set_io blueled  38
