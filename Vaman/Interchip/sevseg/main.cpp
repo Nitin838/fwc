@@ -31,15 +31,16 @@ const char index_html[] PROGMEM = R"rawliteral(
 <body>
   <h1>Seven Segment Display</h1>
   <form action="/led" method="POST">
-    <button type="submit" name="state" value="1">Option 1</button><br>
-    <button type="submit" name="state" value="2">Option 2</button><br>
-    <button type="submit" name="state" value="3">Option 3</button><br>
-    <button type="submit" name="state" value="4">Option 4</button><br>
-    <button type="submit" name="state" value="5">Option 5</button><br>
-    <button type="submit" name="state" value="6">Option 6</button><br>
-    <button type="submit" name="state" value="7">Option 7</button><br>
-    <button type="submit" name="state" value="8">Option 8</button><br>
-    <button type="submit" name="state" value="9">Option 9</button><br>
+    <button type="submit" name="state" value="0">Value 0</button><br>
+    <button type="submit" name="state" value="1">Value 1</button><br>
+    <button type="submit" name="state" value="2">Value 2</button><br>
+    <button type="submit" name="state" value="3">Value 3</button><br>
+    <button type="submit" name="state" value="4">Value 4</button><br>
+    <button type="submit" name="state" value="5">Value 5</button><br>
+    <button type="submit" name="state" value="6">Value 6</button><br>
+    <button type="submit" name="state" value="7">Value 7</button><br>
+    <button type="submit" name="state" value="8">Value 8</button><br>
+    <button type="submit" name="state" value="9">Value 9</button><br>
   </form>
 </body>
 </html>
@@ -78,6 +79,9 @@ void setup() {
         if (p->name() == PARAM_STATE) {
           uint8_t option = p->value().toInt();
           switch(option) {
+          case 0:
+            gpioval = (1 << PIN_LED7);
+            break;
           case 1:
             gpioval = (1 << PIN_LED1) | (1 << PIN_LED4) | (1 << PIN_LED5) | (1 << PIN_LED6) | (1 << PIN_LED7);
             break;
